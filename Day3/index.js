@@ -23,7 +23,7 @@
 // console.log("Hii 2");
 
 function Greeting() {
-    console.log("Welcome");
+    console.log("Hello there.");
   }
   console.log(Greeting());
   
@@ -46,10 +46,10 @@ function Greeting() {
   
   // console.log(number);
   
-  let firstNumber = 10;
+  let firstNumber = 100;
   {
-    const secondNumber = 20;
-    var thirdNumber = 30;
+    const secondNumber = 84;
+    var thirdNumber = 33;
     console.log(firstNumber);
     {
       {
@@ -61,14 +61,15 @@ function Greeting() {
   }
   console.log(thirdNumber);
   
-  mynumber = 10;
+  mynumber = 11;
   console.log(mynumber);
   
-  var mynumber;
+
+// var mynumber;
   
   
-  mynumber = 10;
-  console.log(mynumber);
+//   mynumber = 44;
+//   console.log(mynumber);
   
-  let mynumber;
+//   let mynumber;
   
