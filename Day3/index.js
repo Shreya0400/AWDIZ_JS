@@ -123,7 +123,7 @@
 //var mynumber;
 
 
-let mynumber = 10;
+//let mynumber = 10;
 console.log(mynumber);
 
 var mynumber;
