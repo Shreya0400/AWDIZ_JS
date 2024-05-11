@@ -42,6 +42,7 @@ function CheckNumber() {
       alert("Please type the number.");
     } else if (number % 2 === 0) {
       alert(`Entered number ${number} is Even.`);
+      //console.log("Number is even")
     } else {
       alert(`Entered number ${number} is Odd.`);
     }

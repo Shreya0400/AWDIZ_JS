@@ -72,10 +72,10 @@
 // var num2 = 10;
 // console.log(num1 == num2);
 
-// var num1 = 10;
-// var num2 = '10';
+var num1 = 10;
+var num2 = '10';
 // console.log(num1 == num2);
-// console.log(num1 === num2);
+console.log(num1 === num2);
 
 // console.log(20 > 30);
 // console.log(20 < 30);
@@ -88,22 +88,22 @@
 // if number is even then print "Even" and if number is odd then print "Odd"
 // var number = 345; Use if else conditional statement .
 
-console.log("The number is 35.");
-var number = 35;
-if (number % 2 == 0) {
-    console.log("The number is even.");
-}
-else {
-    console.log("The number is odd.");
-}
+// console.log("The number is 35.");
+// var number = 35;
+// if (number % 2 == 0) {
+//     console.log("The number is even.");
+// }
+// else {
+//     console.log("The number is odd.");
+// }
 
-console.log(" ");
+// console.log(" ");
 
-console.log("The number is 44.");
-var number = 44;
-if (number % 2 == 0) {
-    console.log("The number is even.");
-}
-else {
-    console.log("The number is odd.");
-}
+// console.log("The number is 44.");
+// var number = 44;
+// if (number % 2 == 0) {
+//     console.log("The number is even.");
+// }
+// else {
+//     console.log("The number is odd.");
+// }
